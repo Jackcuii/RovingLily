@@ -1,0 +1,27 @@
+{
+    "name": "apps",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "tsc",
+        "start": "node --loader ts-node/esm src/app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@polkadot/api": "^11.2.1",
+        "@polkadot/keyring": "^2.6.2",
+        "@polkadot/util-crypto": "^12.6.2",
+        "@types/cors": "^2.8.17",
+        "arg": "^5.0.2",
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "process": "^0.11.10"
+    },
+    "devDependencies": {
+        "@types/express": "^5.0.0",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.4.5"
+    }
+}
