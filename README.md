@@ -3,6 +3,7 @@
 
 This is a blockchain-based BBS, built on Substrate. It is a course project of 24Fall Blockchain Technology Practice in NJU.
 
+You are welcome to join me to finish this project, and feel free to contact me!
 
 Proposal: [Roving Lily](https://jackcui.notion.site/rovinglily)
 
